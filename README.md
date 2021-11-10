@@ -1,5 +1,5 @@
 # Jacob
-This script change SSH password for a combo user:password 
+<h1> This script change SSH password for a combo user:password </h1>
 
 To run it, you should run
 
