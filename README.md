@@ -5,5 +5,5 @@ To run it, you should run
 
 I preferred to use conda as python venv creator, it contains all library needed
 
-pip install paramiko 
+pip install paramiko <br>
 pip install colorama
